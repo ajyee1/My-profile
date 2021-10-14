@@ -39,7 +39,7 @@ a:hover {
     padding: 120px 0;
     text-align: center;
     margin: auto;
-    border: 0;
+    border: auto;
 }
 
 .banner-text {
