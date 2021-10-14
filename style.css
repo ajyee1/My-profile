@@ -93,7 +93,11 @@ a:hover {
 }
 
 .youtube-player {
-  margin: 0 auto;
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .social-icon:hover {
