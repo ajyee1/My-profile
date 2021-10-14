@@ -92,6 +92,10 @@ a:hover {
   margin: 8px 24px;
 }
 
+.youtube-player {
+  margin: 0 auto;
+}
+
 .social-icon:hover {
   color: rgb(120,120,120);
 }
