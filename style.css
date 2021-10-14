@@ -10,7 +10,7 @@ h1, h2 {
 }
 
 h1 {
-  color: #787A91;
+  color: #F21170;
 }
 
 h2 {
@@ -30,6 +30,22 @@ a {
 
 a:hover {
   color: #1B6295;
+}
+
+.banner {
+    background-image: url("images/judofight.jpeg");
+    background-size: cover;
+    color: white;
+    padding: 120px 0;
+    text-align: center;
+    margin: 0;
+    border: 0;
+}
+
+.banner-text {
+  color: #F21170;
+  font-size: large;
+  font-weight: 1000;
 }
 
 .card-grey {
